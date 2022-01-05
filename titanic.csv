@@ -1,0 +1,124 @@
+row.names,pclass,survived,name,age,embarked,home.dest,room,ticket,boat,sex
+1,1st,1,"Allen, Miss Elisabeth Walton",29,Southampton,"St Louis, MO",B-5,24160 L221,2,female
+2,1st,0,"Allison, Miss Helen Loraine",2,Southampton,"Montreal, PQ / Chesterville, ON",C26,,,female
+3,1st,0,"Allison, Mr Hudson Joshua Creighton",30,Southampton,"Montreal, PQ / Chesterville, ON",C26,,-135,male
+4,1st,0,"Allison, Mrs Hudson J.C. (Bessie Waldo Daniels)",25,Southampton,"Montreal, PQ / Chesterville, ON",C26,,,female
+5,1st,1,"Allison, Master Hudson Trevor",0.9167,Southampton,"Montreal, PQ / Chesterville, ON",C22,,11,male
+6,1st,1,"Anderson, Mr Harry",47,Southampton,"New York, NY",E-12,,3,male
+7,1st,1,"Andrews, Miss Kornelia Theodosia",63,Southampton,"Hudson, NY",D-7,13502 L77,10,female
+8,1st,0,"Andrews, Mr Thomas, jr",39,Southampton,"Belfast, NI",A-36,,,male
+9,1st,1,"Appleton, Mrs Edward Dale (Charlotte Lamson)",58,Southampton,"Bayside, Queens, NY",C-101,,2,female
+10,1st,0,"Artagaveytia, Mr Ramon",71,Cherbourg,"Montevideo, Uruguay",,,-22,male
+11,1st,0,"Astor, Colonel John Jacob",47,Cherbourg,"New York, NY",,17754 L224 10s 6d,-124,male
+12,1st,1,"Astor, Mrs John Jacob (Madeleine Talmadge Force)",19,Cherbourg,"New York, NY",,17754 L224 10s 6d,4,female
+13,1st,1,"Aubert, Mrs Leontine Pauline",NA,Cherbourg,"Paris, France",B-35,17477 L69 6s,9,female
+14,1st,1,"Barkworth, Mr Algernon H.",NA,Southampton,"Hessle, Yorks",A-23,,B,male
+15,1st,0,"Baumann, Mr John D.",NA,Southampton,"New York, NY",,,,male
+16,1st,1,"Baxter, Mrs James (Helene DeLaudeniere Chaput)",50,Cherbourg,"Montreal, PQ",B-58/60,,6,female
+17,1st,0,"Baxter, Mr Quigg Edmond",24,Cherbourg,"Montreal, PQ",B-58/60,,,male
+18,1st,0,"Beattie, Mr Thomson",36,Cherbourg,"Winnipeg, MN",C-6,,,male
+19,1st,1,"Beckwith, Mr Richard Leonard",37,Southampton,"New York, NY",D-35,,5,male
+20,1st,1,"Beckwith, Mrs Richard Leonard (Sallie Monypeny)",47,Southampton,"New York, NY",D-35,,5,female
+21,1st,1,"Behr, Mr Karl Howell",26,Cherbourg,"New York, NY",C-148,,5,male
+22,1st,0,"Birnbaum, Mr Jakob",25,Cherbourg,"San Francisco, CA",,,-148,male
+23,1st,1,"Bishop, Mr Dickinson H.",25,Cherbourg,"Dowagiac, MI",B-49,,7,male
+24,1st,1,"Bishop, Mrs Dickinson H. (Helen Walton)",19,Cherbourg,"Dowagiac, MI",B-49,,7,female
+25,1st,1,"Bjornstrm-Steffansson, Mr Mauritz Hakan",28,Southampton,"Stockholm, Sweden / Washington, DC",, ,D,male
+26,1st,0,"Blackwell, Mr Stephen Weart",45,Southampton,"Trenton, NJ",,,-241,male
+27,1st,1,"Blank, Mr Henry",39,Cherbourg,"Glen Ridge, NJ",A-31,,7,male
+28,1st,1,"Bonnell, Miss Caroline",30,Southampton,"Youngstown, OH",C-7,,8,female
+29,1st,1,"Bonnell, Miss Elizabeth",58,Southampton,"Birkdale, England Cleveland, Ohio",C-103,,8,female
+30,1st,0,"Borebank, Mr John James",NA,Southampton,"London / Winnipeg, MB",D-21/2,,,male
+31,1st,1,"Bowen, Miss Grace Scott",45,Cherbourg,"Cooperstown, NY",,,4,female
+32,1st,1,"Bowerman, Miss Elsie Edith",22,Southampton,"St Leonards-on-Sea, England Ohio",,,6,female
+33,1st,1,"Bradley, Mr George",NA,Southampton,"Los Angeles, CA",,,15,male
+34,1st,0,"Brady, Mr John Bertram",41,Southampton,"Pomeroy, WA",,,,male
+35,1st,0,"Brandeis, Mr Emil",48,Cherbourg,"Omaha, NE",,17591 L50 9s 11d,-208,male
+36,1st,0,"Brewe, Dr Arthur Jackson",NA,Cherbourg,"Philadelphia, PA",,,,male
+37,1st,1,"Brown, Mrs James Joseph (Margaret Molly"" Tobin)""",44,Cherbourg,"Denver, CO",,17610 L27 15s 5d,6,female
+38,1st,1,"Brown, Mrs John Murray (Caroline Lane Lamson)",59,Southampton,"Belmont, MA",C-101,,D,female
+39,1st,1,"Bucknell, Mrs William Robert (Emma Eliza Ward)",60,Cherbourg,"Philadelphia, PA",,,8,female
+40,1st,0,"Butt, Major Archibald Willingham",45,Southampton,"Washington, DC",,,,male
+41,1st,1,"Calderhead, Mr Edward P.",NA,Southampton,"New York, NY",,,5??7??,male
+42,1st,1,"Candee, Mrs Edward (Helen Churchill Hungerford)",53,Cherbourg,"Washington, DC",,,6,female
+43,1st,1,"Cardeza, Mrs James Warburton Martinez (Charlotte Wardle Drake)",58,Cherbourg,"Germantown, Philadelphia, PA",B-51/3/5,17755 L512 6s,3,female
+44,1st,1,"Cardeza, Mr Thomas Drake Martinez",36,Cherbourg,"Austria-Hungary / Germantown, Philadelphia, PA",B-51/3/5,17755 L512 6s,3,male
+45,1st,0,"Carlsson, Mr Frans Olof",33,Southampton,"New York, NY",,,,male
+46,1st,0,"Carrau, Mr Francisco M.",NA,Southampton,"Montevideo, Uruguay",,,,male
+47,1st,0,"Carrau, Mr Jose Pedro",NA,Southampton,"Montevideo, Uruguay",,,,male
+48,1st,1,"Carter, Mr William Ernest",36,Southampton,"Bryn Mawr, PA",,,C,male
+49,1st,1,"Carter, Mrs William Ernest (Lucile Polk)",36,Southampton,"Bryn Mawr, PA",,,4,female
+50,1st,1,"Carter, Miss Lucile Polk",14,Southampton,"Bryn Mawr, PA",,,4,female
+51,1st,1,"Carter, Master William T. II",11,Southampton,"Bryn Mawr, PA",,,4,male
+52,1st,0,"Case, Mr Howard Brown",49,Southampton,"Ascot, Berkshire / Rochester, NY",,,,male
+53,1st,1,"Cassebeer, Mrs Henry Arthur jr (Genevieve Fosdick)",NA,Cherbourg,"New York, NY",,,5,female
+54,1st,0,"Cavendish, Mr Tyrell William",36,Southampton,"Little Onn Hall, Staffs",,,-172,male
+55,1st,1,"Cavendish, Mrs Tyrell William Julia Florence Siegel",NA,Southampton,"Little Onn Hall, Staffs",,,6,female
+56,1st,0,"Chaffee, Mr Herbert Fuller",46,Southampton,"Amenia, ND",,,,male
+57,1st,1,"Chaffee, Mrs Herbert Fuller (Carrie Constance Toogood)",47,Southampton,"Amenia, ND",,,,female
+58,1st,1,"Chambers, Mr Norman Campbell",27,Southampton,"New York, NY / Ithaca, NY",,,5,male
+59,1st,1,"Chambers, Mrs Norman Campbell (Bertha Griggs)",31,Southampton,"New York, NY / Ithaca, NY",,,5,female
+60,1st,1,"Cherry, Miss Gladys",NA,Southampton,"London, England",,,8,female
+61,1st,1,"Chevre, Mr Paul",NA,Cherbourg,"Paris, France",,,7,male
+62,1st,1,"Chibnall (Bowerman), Mrs Edith Martha",NA,Southampton,"St Leonards-on-Sea, England Ohio",,,6,female
+63,1st,0,"Chisholm, Mr Roderick Robert",NA,,"Liverpool, England / Belfast",,,,male
+64,1st,0,"Clark, Mr Walter Miller",27,Cherbourg,"Los Angeles, CA",C-87,,,male
+65,1st,1,"Clark, Mrs Walter Miller (Virginia McDowell)",26,Cherbourg,"Los Angeles, CA",C-87,,4,female
+66,1st,0,"Clifford, Mr George Quincy",NA,Southampton,"Stoughton, MA",,,,male
+67,1st,0,"Colley, Mr Edward Pomeroy",NA,Southampton,"Victoria, BC",,,,male
+68,1st,1,"Compton, Mrs Alexander Taylor (Mary Eliza Ingersoll)",64,Cherbourg,"Lakewood, NJ",,,14,female
+69,1st,0,"Compton, Mr Alexander Taylor, Jr",37,Cherbourg,"Lakewood, NJ",,,,male
+70,1st,1,"Compton, Miss Sara Rebecca",39,Cherbourg,"Lakewood, NJ",,,14,female
+71,1st,1,"Cornell, Mrs Robert Clifford (Malvina Helen Lamson)",55,Southampton,"New York, NY",C-101,,2,female
+72,1st,0,"Crafton, Mr John Bertram",NA,Southampton,"Roachdale, IN",,,,male
+73,1st,0,"Crosby, Captain Edward Gifford",70,Southampton,"Milwaukee, WI",,,-269,male
+74,1st,1,"Crosby, Mrs Edward Gifford (Catherine Elizabeth Halstead)",69,Southampton,"Milwaukee, WI",,,5,female
+75,1st,1,"Crosby, Miss Harriet R.",36,Southampton,"Milwaukee, WI",,,5,female
+76,1st,0,"Cumings, Mr John Bradley",39,Cherbourg,"New York, NY",C-85,,,male
+77,1st,1,"Cumings, Mrs John Bradley (Florence Briggs Thayer)",38,Cherbourg,"New York, NY",C-85,,4,female
+78,1st,1,"Daly, Mr Peter Denis ",NA,Southampton,"Lima, Peru",,,A,male
+79,1st,1,"Daniel, Mr Robert Williams",27,Southampton,"Philadelphia, PA",,,7,male
+80,1st,0,"Davidson, Mr Thornton",31,Southampton,"Montreal, PQ",,,,male
+81,1st,1,"Davidson, Mrs Thornton (Orian Hays)",27,Southampton,"Montreal, PQ",,,3,female
+82,1st,1,"de Villiers, Madame Berthe",NA,Cherbourg,"Belgium  Montreal, PQ",,,6,female
+83,1st,1,"Dick, Mr Albert Adrian",31,Cherbourg,"Calgary, AB",,,3,male
+84,1st,1,"Dick, Mrs Albert Adrian Vera Gillespie",17,Cherbourg,"Calgary, AB",,,3,female
+85,1st,1,"Dodge, Dr. Washington",NA,Southampton,"San Francisco, CA",,,13,male
+86,1st,1,"Dodge, Mrs Washington (Ruth Vidaver)",NA,Southampton,"San Francisco, CA",,,5??7??,female
+87,1st,1,"Dodge, Master Washington",4,Southampton,"San Francisco, CA",,,5??7??,male
+88,1st,1,"Douglas, Mrs Frederick Charles (Suzette Baxter)",27,Cherbourg,"Montreal, PQ",,,6,female
+89,1st,0,"Douglas, Mr Walter Donald",50,Cherbourg,"Deephaven, MN / Cedar Rapids, IA",,,-62,male
+90,1st,1,"Douglas, Mrs Walter Donald (Mahala Dutton)",48,Cherbourg,"Deephaven, MN / Cedar Rapids, IA",,,2,female
+91,1st,1,"Duff Gordon, Sir Cosmo Edmund",49,Cherbourg,London / Paris,,11755 L39 12s,1,male
+92,1st,1,"Duff Gordon, Lady (Lucille Wallace Sutherland)",48,Cherbourg,London / Paris,,17485 L56 18s 7d,1,female
+93,1st,0,"Dulles, Mr William Crothers",39,Cherbourg,"Philadelphia, PA",,,-133,male
+94,1st,1,"Earnshaw, Mrs Boulton (Olive Potter)",23,Cherbourg,"Mt Airy, Philadelphia, PA",,,7,female
+95,1st,1,"Eustis, Miss Elizabeth Mussey",53,Cherbourg,"Brookline, MA",,,4,female
+96,1st,0,"Evans, Miss Edith Corse",36,Cherbourg,"New York, NY",,,,female
+97,1st,1,"Flegenheim, Mrs Alfred (Antoinette)",NA,Cherbourg,"New York, NY",,,7,female
+98,1st,1,"Flynn, Mr John Irving",NA,Southampton,"Brooklyn, NY",,,5??7??,male
+99,1st,0,"Foreman, Mr Benjamin Laventall",30,Cherbourg,"New York, NY",,,,male
+100,1st,1,"Fortune, Miss Alice Elizabeth",24,Southampton,"Winnipeg, MB",,,10,female
+101,1st,0,"Fortune, Mr Charles Alexander",19,Southampton,"Winnipeg, MB",,,,male
+102,1st,1,"Fortune, Miss Ethel Flora",28,Southampton,"Winnipeg, MB",,,10,female
+103,1st,1,"Fortune, Miss Mabel",23,Southampton,"Winnipeg, MB",,,10,female
+104,1st,0,"Fortune, Mr Mark",64,Southampton,"Winnipeg, MB",,,,male
+105,1st,1,"Fortune, Mrs Mark (Mary McDougald)",60,Southampton,"Winnipeg, MB",,,10,female
+106,1st,0,"Franklin, Mr Thomas Parham",NA,Southampton,"Westcliff-on-Sea, Essex",,,,male
+107,1st,1,"Frauenthal, Dr Henry William",49,Cherbourg,"New York, NY",,,5,male
+108,1st,1,"Frauenthal, Mrs Henry William (Clara Heinsheimer)",NA,Cherbourg,"New York, NY",,,5,female
+109,1st,1,"Frauenthal, Mr Isaac Gerald",44,Southampton,"New York, NY",,,5,male
+110,1st,1,"Frolicher, Miss Marguerite",22,Cherbourg,"Zurich, Switzerland",,,5,female
+111,1st,1,"Frolicher-Stehli, Mr Maxmillian",60,Cherbourg,"Zurich, Switzerland",,,5,male
+112,1st,1,"Frolicher-Stehli, Mrs Maxmillian (Margaretha Emerentia Stehli)",48,Cherbourg,"Zurich, Switzerland",,,5,female
+113,1st,0,"Futrelle, Mr Jacques",37,Southampton,"Scituate, MA",,,,male
+114,1st,1,"Futrelle, Mrs Jacques (May Peel)",35,Southampton,"Scituate, MA",,,9,female
+115,1st,0,"Gee, Mr Arthur H.",47,Southampton,"St Anne's-on-Sea, Lancashire",,,-275,male
+116,1st,1,"Gibson, Miss Dorothy",22,Cherbourg,"New York, NY",,,7,female
+117,1st,1,"Gibson, Mrs Leonard (Pauline C. Boeson)",45,Cherbourg,"New York, NY",,,7,female
+118,1st,1,"Goldenberg, Mr Samuel L.",49,Cherbourg,"Paris, France / New York, NY",,,5,male
+119,1st,1,"Goldenberg, Mrs Samuel L. (Edwiga Grabowsko)",NA,Cherbourg,"Paris, France / New York, NY",,,5,female
+120,1st,0,"Goldschmidt, Mr George B.",71,Cherbourg,"New York, NY",,,,male
+121,1st,1,"Gracie, Colonel Archibald IV",54,Southampton,"Washington, DC",C-51,113780 L28 10s,B,male
+122,1st,0,"Graham, Mr George Edward",38,Southampton,"Winnipeg, MB",,,-147,male
+123,1st,1,"Graham, Miss Margaret Edith",19,Southampton,"Greenwich, CT",C-1,,,
